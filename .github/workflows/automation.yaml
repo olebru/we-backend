@@ -1,0 +1,15 @@
+name: Automation
+on:
+  issues:
+    types: ["opened"]
+  pull_request:
+    types: ["opened"]
+  push:
+    branches: ["main"]
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+    needs: terraform
+    steps:
+      - uses: google-github-actions/release-please-action@v3
