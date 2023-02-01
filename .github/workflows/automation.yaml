@@ -10,6 +10,5 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     if: github.event_name == 'push'
-    needs: terraform
     steps:
       - uses: google-github-actions/release-please-action@v3
