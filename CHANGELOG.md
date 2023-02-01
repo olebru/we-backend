@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/olebru/we-backend/compare/v1.0.0...v1.1.0) (2023-02-01)
+
+
+### Features
+
+* Readme change, and feature ver bump test ([b0db1ba](https://github.com/olebru/we-backend/commit/b0db1ba9fa27bb782e22303a295d5651f86f25f8))
+
 ## 1.0.0 (2023-02-01)
 
 
