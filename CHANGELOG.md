@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/olebru/we-backend/compare/v1.2.0...v1.2.1) (2023-02-10)
+
+
+### Bug Fixes
+
+* pat ([dd407e5](https://github.com/olebru/we-backend/commit/dd407e5834a3eb629657d3d7594772d486a4b40b))
+
 ## [1.2.0](https://github.com/olebru/we-backend/compare/v1.1.0...v1.2.0) (2023-02-10)
 
 
