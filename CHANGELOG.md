@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/olebru/we-backend/compare/v1.1.0...v1.2.0) (2023-02-10)
+
+
+### Features
+
+* publish pipeline ([3c70c3e](https://github.com/olebru/we-backend/commit/3c70c3e69ef68175a2becbde6ffda4bd5ae7abad))
+
 ## [1.1.0](https://github.com/olebru/we-backend/compare/v1.0.0...v1.1.0) (2023-02-01)
 
 
