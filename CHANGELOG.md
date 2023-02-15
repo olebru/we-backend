@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/olebru/we-backend/compare/v1.2.2...v1.3.0) (2023-02-15)
+
+
+### Features
+
+* New feature test ([c85fbe2](https://github.com/olebru/we-backend/commit/c85fbe21d2ba49357316f06f7a8cd1694fa71736))
+
+
+### Bug Fixes
+
+* Adding ! to see if it works ([706e178](https://github.com/olebru/we-backend/commit/706e1789f27dffeceef4603ceadb6be0b7c99e12))
+
 ## [1.2.2](https://github.com/olebru/we-backend/compare/v1.2.1...v1.2.2) (2023-02-10)
 
 
